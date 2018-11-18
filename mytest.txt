@@ -3,5 +3,7 @@ public class User(){
 	Stirng age;
 	Stirng user;
 	Stirng user;
-	
+	=============
+
 }
+我是master分支上的内容

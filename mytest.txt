@@ -3,5 +3,9 @@ public class User(){
 	Stirng age;
 	Stirng user;
 	Stirng user;
+	Stirng user;
+==============
+	Stirng user;
+	Stirng user;
 	
 }
